@@ -1,11 +1,11 @@
-````markdown
-# 📂 Move & Unzip Utility
+
+📂 Move & Unzip Utility
 
 A simple Python GUI tool to help you quickly unpack ZIP archives (if needed) and move their contents—or any selected folder’s contents—into a new, neatly organized directory of your choosing.
 
 ---
 
-## ✨ Features
+✨ Features
 
 - **Unzip If Needed**  
   Detects `.zip` sources and automatically extracts them to a temporary folder before moving.

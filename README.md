@@ -38,7 +38,7 @@ A simple Python GUI tool to help you quickly unpack ZIP archives (if needed) and
 - **psutil**  
   ```bash
   pip install psutil
-````
+
 
 *All other libraries (`shutil`, `tempfile`, `zipfile`, `pathlib`, `traceback`) are part of Python’s standard library.*
 
